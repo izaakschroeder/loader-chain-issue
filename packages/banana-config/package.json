@@ -1,0 +1,5 @@
+{
+  "name": "banana-config",
+  "type": "module",
+  "main": "./config.mjs"
+}

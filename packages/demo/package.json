@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "type": "module",
+  "scripts": {
+    "demo": "NODE_OPTIONS=\"${NODE_OPTIONS:-} --loader banana-loader\" node demo.banana"
+  },
+  "devDependencies": {
+    "banana-config": "workspace:^",
+    "banana-loader": "workspace:^"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loader-chain-issue",
+  "packageManager": "yarn@4.0.0-rc.45",
+  "workspaces": [
+    "./packages/*"
+  ]
+}

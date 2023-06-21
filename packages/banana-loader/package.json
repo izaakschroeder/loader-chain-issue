@@ -1,0 +1,5 @@
+{
+  "name": "banana-loader",
+  "main": "./loader.mjs",
+  "type": "module"
+}
